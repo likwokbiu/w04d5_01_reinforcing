@@ -1,0 +1,11 @@
+First Day:-
+#<Cohort:0x007f9493cac0b8 @first_day=Mon, 22 Jan 2018>
+
+Last Day:-
+Fri, 30 Mar 2018
+
+Class Days:-
+Are you taking {:date=>Mon, 19 Feb 2018, :name=>"Family Day", :regions=>[:ca_on]} off? y/N: Are you taking {:date=>Fri, 30 Mar 2018, :name=>"Good Friday", :regions=>[:ca]} off? y/N: [Mon, 22 Jan 2018, Tue, 23 Jan 2018, Wed, 24 Jan 2018, Thu, 25 Jan 2018, Fri, 26 Jan 2018, Mon, 29 Jan 2018, Tue, 30 Jan 2018, Wed, 31 Jan 2018, Thu, 01 Feb 2018, Fri, 02 Feb 2018, Mon, 05 Feb 2018, Tue, 06 Feb 2018, Wed, 07 Feb 2018, Thu, 08 Feb 2018, Fri, 09 Feb 2018, Mon, 12 Feb 2018, Tue, 13 Feb 2018, Wed, 14 Feb 2018, Thu, 15 Feb 2018, Fri, 16 Feb 2018, Tue, 20 Feb 2018, Wed, 21 Feb 2018, Thu, 22 Feb 2018, Fri, 23 Feb 2018, Mon, 26 Feb 2018, Tue, 27 Feb 2018, Wed, 28 Feb 2018, Thu, 01 Mar 2018, Fri, 02 Mar 2018, Mon, 05 Mar 2018, Tue, 06 Mar 2018, Wed, 07 Mar 2018, Thu, 08 Mar 2018, Fri, 09 Mar 2018, Mon, 12 Mar 2018, Tue, 13 Mar 2018, Wed, 14 Mar 2018, Thu, 15 Mar 2018, Fri, 16 Mar 2018, Mon, 19 Mar 2018, Tue, 20 Mar 2018, Wed, 21 Mar 2018, Thu, 22 Mar 2018, Fri, 23 Mar 2018, Mon, 26 Mar 2018, Tue, 27 Mar 2018, Wed, 28 Mar 2018, Thu, 29 Mar 2018]
+
+Coffee Code Days:-
+[Tue, 06 Feb 2018, Thu, 08 Feb 2018, Tue, 13 Feb 2018, Thu, 15 Feb 2018, Tue, 20 Feb 2018, Thu, 22 Feb 2018, Tue, 27 Feb 2018, Thu, 01 Mar 2018, Tue, 06 Mar 2018, Thu, 08 Mar 2018, Tue, 13 Mar 2018, Thu, 15 Mar 2018, Tue, 20 Mar 2018, Thu, 22 Mar 2018, Tue, 27 Mar 2018, Thu, 29 Mar 2018]
